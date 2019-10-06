@@ -4,11 +4,8 @@
 package negocio;
 
 /**
- * Clase para el uso de Boyer Moore Horspool, implementación a lo bruto :v, no esperen
- * que corra en menos de 1 segundo, no mamen, me batiempanadamamé haciendo esto, 
- * mezclando la depresión, mucha agua, sueño, y mi habilidad de hacer todo a última hora
- * así que tomen asiento, y si se demora, vayan por un café con pan Att: autor
- * @author Kevin Toro: 1151506
+ * Clase para el uso de Boyer Moore Horspool.
+ * Aquí se realiza todo el procesamiento del String Matching
  */
 public class BoyerMooreHorspool
 {
